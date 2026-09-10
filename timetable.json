@@ -1,0 +1,64 @@
+{
+  "timetable": [
+    {
+      "department": "Computer Science",
+      "section": "A",
+      "semester": "1",
+      "day": "Monday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "course": "Programming Fundamentals",
+      "code": "CS-101",
+      "room": "Lab 1",
+      "teacher": "Instructor 1"
+    },
+    {
+      "department": "Computer Science",
+      "section": "A",
+      "semester": "1",
+      "day": "Monday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "course": "Calculus",
+      "code": "MTH-101",
+      "room": "Room 12",
+      "teacher": "Instructor 2"
+    },
+    {
+      "department": "Computer Science",
+      "section": "A",
+      "semester": "1",
+      "day": "Tuesday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "course": "English",
+      "code": "ENG-101",
+      "room": "Room 8",
+      "teacher": "Instructor 3"
+    },
+    {
+      "department": "Computer Science",
+      "section": "A",
+      "semester": "1",
+      "day": "Wednesday",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "course": "Digital Logic",
+      "code": "CS-103",
+      "room": "Lab 2",
+      "teacher": "Instructor 4"
+    },
+    {
+      "department": "Computer Science",
+      "section": "B",
+      "semester": "1",
+      "day": "Monday",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "course": "Programming Fundamentals",
+      "code": "CS-101",
+      "room": "Lab 3",
+      "teacher": "Instructor 1"
+    }
+  ]
+    }
